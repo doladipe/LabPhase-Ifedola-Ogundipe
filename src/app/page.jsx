@@ -11,7 +11,7 @@ export default function Home() {
           autoPlay
           loop
           muted
-          src="/vid2.mp4"
+          src="/vid.mp4"
         ></video>
       </div>
 
